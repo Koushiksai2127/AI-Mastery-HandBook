@@ -1,29 +1,50 @@
-# Welcome to AI Mastery Handbook
+# AI Mastery Handbook
 
-The AI Mastery Handbook is designed to provide a comprehensive guide to help you navigate the world of Artificial Intelligence. This guide includes detailed learning paths and resources for various levels of expertise.
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Learning Paths](#learning-paths)
+   - [Beginner](#beginner)
+   - [Intermediate](#intermediate)
+   - [Advanced](#advanced)
+3. [Templates](#templates)
+4. [Concept Pages](#concept-pages)
+5. [Resources](#resources)
+6. [Community Guidelines](#community-guidelines)
+
+## Introduction
+The AI Mastery Handbook is designed to guide learners through the fundamentals and advanced concepts of Artificial Intelligence.
 
 ## Learning Paths
+### Beginner
+- Basics of AI
+- Introduction to Machine Learning
+- Simple Neural Networks
 
-1. **Beginner Path**  
-   - Introduction to AI  
-   - Understanding Data Structures  
-   - Basics of Machine Learning
+### Intermediate
+- Supervised Learning Techniques
+- Unsupervised Learning Techniques
+- Introduction to Natural Language Processing
 
-2. **Intermediate Path**  
-   - Deep Dive into Machine Learning  
-   - Introduction to Neural Networks  
-   - Natural Language Processing Basics
+### Advanced
+- Deep Learning Architectures
+- Reinforcement Learning
+- Ethical Considerations in AI
 
-3. **Advanced Path**  
-   - Advanced Machine Learning Techniques  
-   - Deep Learning  
-   - Reinforcement Learning
+## Templates
+- Project Planning Template
+- Experiment Tracking Template
+
+## Concept Pages
+- Neural Networks
+- Decision Trees
+- Support Vector Machines
 
 ## Resources
+- Online Courses
+- Research Papers
+- Tools and Libraries
 
-- [Books](https://example.com/books)
-- [Online Courses](https://example.com/courses)
-- [Communities](https://example.com/communities)  
-
-## Conclusion  
-The AI landscape is ever-evolving. The AI Mastery Handbook aims to serve as a foundational resource to keep you updated with the latest trends and guides in AI.
+## Community Guidelines
+- Respect fellow learners
+- Share resources openly
+- Collaborate and contribute to projects.
